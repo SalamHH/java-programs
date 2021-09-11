@@ -1,3 +1,0 @@
-det var litt krevende og mye å holde styr på men det gikk greit.
-fordelen med å jobbe med å jobbe i team er å fordele arbeidsmengden på flere personer, spørre om hjelp hvis det trengs, dobbeltsjekke kode med andre for å forsikre seg om at man er på rett spor.
-Ulempen er at det kan være vanskelig å forstå kode som andre har skrevet, eller hvis man har ulike tolkninger av oppgaven.
